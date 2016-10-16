@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18C62A5B1DB404E40091E5EF /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C62A5A1DB404E40091E5EF /* View.swift */; };
 		18D9AD241DB3E7AB005F5BB0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D9AD231DB3E7AB005F5BB0 /* AppDelegate.swift */; };
 		18D9AD261DB3E7AB005F5BB0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D9AD251DB3E7AB005F5BB0 /* ViewController.swift */; };
 		18D9AD291DB3E7AB005F5BB0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D9AD271DB3E7AB005F5BB0 /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		099A58E91C57BB459870E9FE /* Pods_TestUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C62A5A1DB404E40091E5EF /* View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View.swift; sourceTree = "<group>"; };
 		18D9AD201DB3E7AB005F5BB0 /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D9AD231DB3E7AB005F5BB0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18D9AD251DB3E7AB005F5BB0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 		18D9AD221DB3E7AB005F5BB0 /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				18C62A5A1DB404E40091E5EF /* View.swift */,
 				18D9AD231DB3E7AB005F5BB0 /* AppDelegate.swift */,
 				18D9AD251DB3E7AB005F5BB0 /* ViewController.swift */,
 				18D9AD271DB3E7AB005F5BB0 /* Main.storyboard */,
@@ -432,6 +435,7 @@
 			files = (
 				18D9AD261DB3E7AB005F5BB0 /* ViewController.swift in Sources */,
 				18D9AD241DB3E7AB005F5BB0 /* AppDelegate.swift in Sources */,
+				18C62A5B1DB404E40091E5EF /* View.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
