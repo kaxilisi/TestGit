@@ -12,11 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-<<<<<<< HEAD
-        mmmmmmmm
-=======
         view.ViewController.ba
->>>>>>> master
         // Do any additional setup after loading the view, typically from a nib.
     }
 
